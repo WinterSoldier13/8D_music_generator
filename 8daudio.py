@@ -1,8 +1,10 @@
 from pydub import AudioSegment
 from time import sleep
 
+# UPDATE: 10-05-2021
+# Have'nt been updated for like 2 years now, will add some new features soon
 
-print("8D AUDIO CONVERTER FOR MP3s ~by WinterSoldier\n\n Contact the developer @_neural.network_ (Insta) for any help")
+print("8D AUDIO CONVERTER FOR MP3s ~by WinterSoldier\n\n Contact the developer for any help")
 print("Make sure that you have 'ffmpeg' folder placed in the same directory\n\n")
 print("Please place the song in the same folder as this application and rename it to 'test'\n\n\n")
 input('Hit enter when done\n\n')
